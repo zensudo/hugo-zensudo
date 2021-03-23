@@ -638,11 +638,10 @@ input, select, textarea {
 		.icon > img {
 			display: inline-block;
 			vertical-align: middle;
-			max-width: 5.2rem;
-			max-height: 5.2rem;
+			max-width: 3.5rem;
+			max-height: 3.5rem;
 			width: auto;
 			height: auto;
-			margin-top: -5%;
 		}
 
 /* Image */
