@@ -1,4 +1,4 @@
-baseURL = "https://rootified.de"
+baseURL = "https://rootified.github.io/hugo-rootified/"
 languageCode = "de-de"
 title = "Der persönliche IT-Blog von Zen Sudo"
 theme = "dimension"
