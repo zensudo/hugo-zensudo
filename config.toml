@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://rootified.de"
+languageCode = "de-de"
+title = "Der persönliche IT-Blog von Zen Sudo"
 theme = "dimension"
+description = "Aktuelle IT-Projekte, nützliche Tipps und persönliche Skripte für die macOS & Server Administration."
