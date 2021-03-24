@@ -725,16 +725,14 @@
         font-family: 'Font Awesome 5 Brands';
     }
     
-    @media screen and (min-width: 480px) {
-        .icon>img {
-            display: inline-block;
-            vertical-align: middle;
-            max-width: 4.5rem;
-            max-height: 4.5rem;
-            width: auto;
-            height: auto;
-            margin-top: -5%;
-        }
+    .icon>img {
+        display: inline-block;
+        vertical-align: middle;
+        max-width: 4.5rem;
+        max-height: 4.5rem;
+        width: auto;
+        height: auto;
+        margin-top: -5%;
     }
     
     @media screen and (min-width: 736px) {
