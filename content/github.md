@@ -1,9 +1,9 @@
 ---
 title: "Github"
-description: "A collection of posts"
-icon: "flag"
-redirectURL: https://mdshaonimran.wordpress.com/2012/11/24/monitoring-with-nagios/
+description: "Github"
+icon: "github"
+redirectURL: https://github.com/zensudo
 ---
 
 
-[Zur Github Profilseite](https://github.com/rootified)
+[Zur Github Profilseite](https://github.com/zensudo)
